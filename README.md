@@ -2,8 +2,6 @@
 
 [extra help discord server](https://discord.gg/9HfPSp3D)
 
-### smashed together by [ayunami2000](https://github.com/ayunami2000)
-
 ## Helpful video tutorial by a generous user
 motd changing is DIFFERENT than what these tutorials say!! -- check the `java/bungee_command/config.yml` for how to change (motd1 is first line, motd2 (you can add this) is the 2nd one)
 
